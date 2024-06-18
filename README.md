@@ -1,3 +1,3 @@
-#first-day-repo
+# first-day-repo
 
-#updated the repo from my local machine
+# updated the repo from my local machine
